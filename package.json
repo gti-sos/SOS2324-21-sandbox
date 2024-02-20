@@ -1,13 +1,13 @@
 {
   "name": "sos2324-21-sandbox",
   "version": "0.0.0",
-  "description": "Mi primer paquete de Node",
+  "description": "mi primer paquete node",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mluisa",
+  "author": "maria luisa",
   "license": "GPL-3.0",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
